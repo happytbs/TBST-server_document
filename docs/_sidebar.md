@@ -1,7 +1,7 @@
 - 关于项目
   - [关于文档](about/关于本文档的说明.md)
 - 关于服务器
-  - [简介](document/introduction.md)
-  - [服务器](document/server.md)
-  - [成员](document/members.md)
-  - [世界](document/world.md)
+  - [简介](about-server/introduction.md)
+  - [服务器](about-server/server.md)
+  - [成员](about-server/members.md)
+  - [世界](about-server/world.md)
