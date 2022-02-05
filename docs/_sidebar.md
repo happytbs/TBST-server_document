@@ -1,5 +1,3 @@
-- 关于项目
-  - [关于文档](about/关于本文档的说明.md)
 - 关于服务器
   - [简介](about-server/introduction.md)
   - [服务器](about-server/server.md)
