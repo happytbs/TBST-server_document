@@ -3,8 +3,8 @@
 |qqID|mcID|
 |:---:|:--:|
 |土拨鼠|tuboshu|
-|草方块|Grass_block|
-|ZenCanCore_MinecraftLover|HelionMof.|
+|草方块|grass_block|
+|初音未来|HelionMof.|
 |过客是个铁憨憨|过客是个铁憨憨|
 |wanys|wanys|
 |^薄荷布丁^|sllzy|
@@ -20,6 +20,7 @@
 |qqID|mcID|
 |:---:|:--:|
 |土拨鼠|tuboshu|
-|草方块|Grass_block|
-|ZenCanCore_MinecraftLover|HelionMof.|
+|草方块|grass_block|
+|初音未来|HelionMof.|
 |过客是个铁憨憨|过客是个铁憨憨|
+
