@@ -10,7 +10,7 @@
 
 ## 注册皮肤站
 
-首先先前往[TBST skin](https://skin.apicraft.top/)皮肤站进行注册
+首先先前往[TBST skin](https://skin.tbstmc.xyz/)皮肤站进行注册
 
 ![image-20220209211011662](TBST%E4%B8%93%E5%B1%9E-%E7%94%B5%E8%84%91%E7%89%88%E5%A4%96%E7%BD%AE%E7%99%BB%E5%BD%95%E6%95%99%E7%A8%8B.assets/image-20220209211011662.png)
 
