@@ -4,7 +4,7 @@ description: TBSTCraft这个MC服务器的文档
 
 # TBST 文档
 
-<figure><img src=".gitbook/assets/组 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/组 6.png" alt=""><figcaption><p>logo</p></figcaption></figure>
 
 ## 关于
 
