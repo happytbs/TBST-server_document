@@ -2,7 +2,7 @@
 description: TBSTCraft这个MC服务器的文档
 ---
 
-# TBST 文档
+# 文档介绍
 
 <figure><img src=".gitbook/assets/组 6.png" alt=""><figcaption><p>logo</p></figcaption></figure>
 
@@ -22,7 +22,7 @@ description: TBSTCraft这个MC服务器的文档
 
 这个文档是专门给游玩TBST服务器的玩家们提供的一个教程
 
-包括如何使用[⭐外置登录⭐](jiao-cheng-bang-zhu/wai-zhi-deng-lu.md)、安装正确的Java环境等等
+包括如何使用[⭐外置登录⭐](course/wai-zhi-deng-lu.md)、安装正确的Java环境等等
 
 ***
 

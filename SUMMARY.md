@@ -1,19 +1,19 @@
 # Table of contents
 
-* [TBST 文档](README.md)
+* [文档介绍](README.md)
 
-## 服务器介绍
+## 服务器介绍 <a href="#about" id="about"></a>
 
-* [世界规划](fu-wu-qi-jie-shao/page-1.md)
-* [服务器成员](fu-wu-qi-jie-shao/fu-wu-qi-cheng-yuan.md)
-* [服务器简介](fu-wu-qi-jie-shao/fu-wu-qi-jian-jie.md)
+* [世界规划](about/project.md)
+* [服务器成员](about/member.md)
+* [服务器简介](about/server.md)
 
 ***
 
-* [群规](qun-gui.md)
+* [群规](rules.md)
 
-## 教程/帮助
+## 教程/帮助 <a href="#course" id="course"></a>
 
-* [解决问题](jiao-cheng-bang-zhu/jie-jue-wen-ti.md)
-* [建筑技巧](jiao-cheng-bang-zhu/jian-zhu-ji-qiao.md)
-* [外置登录](jiao-cheng-bang-zhu/wai-zhi-deng-lu.md)
+* [遇到问题](course/jie-jue-wen-ti.md)
+* [建筑技巧](course/jian-zhu-ji-qiao.md)
+* [外置登录](course/wai-zhi-deng-lu.md)
