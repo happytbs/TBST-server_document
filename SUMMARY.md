@@ -4,6 +4,10 @@
 
 ## 服务器介绍
 
-* [Page 1](fu-wu-qi-jie-shao/page-1.md)
+* [世界规划](fu-wu-qi-jie-shao/shi-jie-gui-hua.md)
 * [服务器成员](fu-wu-qi-jie-shao/fu-wu-qi-cheng-yuan.md)
 * [服务器简介](fu-wu-qi-jie-shao/fu-wu-qi-jian-jie.md)
+
+## 教程
+
+* [外置登录](jiao-cheng/wai-zhi-deng-lu.md)
