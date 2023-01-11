@@ -1,5 +1,5 @@
 ---
-description: TBST这个MC服务器的文档
+description: TBSTCraft这个MC服务器的文档
 ---
 
 # TBST 文档
