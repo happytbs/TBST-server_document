@@ -1,16 +1,3 @@
 # Table of contents
 
-* [TBST-server document](README.md)
-  * [about-server](docs/about-server/README.md)
-    * [服务器简介](docs/about-server/introduction.md)
-    * [members](docs/about-server/members.md)
-    * [world](docs/about-server/world.md)
-  * [forum](docs/forum/README.md)
-    * [社区](docs/forum/content.md)
-    * [遇到问题如何解决](docs/forum/fight\_solve.md)
-    * [举报与反馈](docs/forum/report\_feedback.md)
-    * [规则](docs/forum/rules.md)
-  * [教程](docs/jiao-cheng-3/README.md)
-    * [配置](docs/jiao-cheng-3/pei-zhi/README.md)
-      * [⭐\[新版教程\]PCL2启动器配置](docs/教程/配置/电脑版PCL2配置教程.md)
-* [Page 2](page-2.md)
+* [Page 1](README.md)
