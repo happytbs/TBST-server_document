@@ -22,7 +22,7 @@ description: TBSTCraft这个MC服务器的文档
 
 这个文档是专门给游玩TBST服务器的玩家们提供的一个教程
 
-包括如何使用[⭐外置登录⭐](https://doc.tbstmc.xyz/#/%E6%95%99%E7%A8%8B/%E9%85%8D%E7%BD%AE/TBST%E4%B8%93%E5%B1%9E-%E7%94%B5%E8%84%91%E7%89%88%E5%A4%96%E7%BD%AE%E7%99%BB%E5%BD%95%E6%95%99%E7%A8%8B)、安装正确的Java环境等等
+包括如何使用[⭐外置登录⭐](jiao-cheng-bang-zhu/wai-zhi-deng-lu.md)、安装正确的Java环境等等
 
 ***
 
