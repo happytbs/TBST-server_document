@@ -8,6 +8,8 @@
 * [服务器成员](fu-wu-qi-jie-shao/fu-wu-qi-cheng-yuan.md)
 * [服务器简介](fu-wu-qi-jie-shao/fu-wu-qi-jian-jie.md)
 
-## 教程
+## 教程/帮助
 
-* [外置登录](jiao-cheng/wai-zhi-deng-lu.md)
+* [解决问题](jiao-cheng-bang-zhu/jie-jue-wen-ti.md)
+* [建筑技巧](jiao-cheng-bang-zhu/jian-zhu-ji-qiao.md)
+* [外置登录](jiao-cheng-bang-zhu/wai-zhi-deng-lu.md)

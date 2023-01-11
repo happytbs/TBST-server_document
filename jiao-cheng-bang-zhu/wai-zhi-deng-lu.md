@@ -1,5 +1,5 @@
 ---
-description: TBSTCraft专属的外置登录配置教程
+description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 ---
 
 # 外置登录
