@@ -16,4 +16,4 @@
 
 * [遇到问题](course/jie-jue-wen-ti.md)
 * [建筑技巧](course/jian-zhu-ji-qiao.md)
-* [外置登录](course/wai-zhi-deng-lu.md)
+* [配置外置登录](course/wai-zhi-deng-lu.md)
