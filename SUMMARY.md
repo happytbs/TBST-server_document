@@ -8,6 +8,10 @@
 * [服务器成员](fu-wu-qi-jie-shao/fu-wu-qi-cheng-yuan.md)
 * [服务器简介](fu-wu-qi-jie-shao/fu-wu-qi-jian-jie.md)
 
+***
+
+* [群规](qun-gui.md)
+
 ## 教程/帮助
 
 * [解决问题](jiao-cheng-bang-zhu/jie-jue-wen-ti.md)
