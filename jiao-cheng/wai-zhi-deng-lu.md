@@ -8,7 +8,7 @@ description: TBSTCraft专属的外置登录配置教程
 
 **外置登陆**是离线Minecraft服务器的一种账户的认证方式，原理是利用原版Minecraft的api进行修改认证服务器，做到走自己的第三方服务器来进行认证和来还原原版Minecraft登陆的体验！下面我们来介绍PCL启动器和HMCL启动器的外置登陆使用方法！
 
-> 若你要体验，在使用前请先前往[Starfish Skin](https://skin.tbstmc.xyz)或者其他皮肤站（例如Littelskin等）进行登录和注册以保证后续步骤可以正常使用！
+> 若你要体验，在使用前请先前往[Starfish Skin](https://skin.tbstmc.xyz)进行登录或者注册以保证后续步骤可以正常使用！
 
 **2.PCL2使用外置登陆** ——by Cube
 

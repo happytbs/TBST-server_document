@@ -4,7 +4,7 @@
 
 ## 服务器介绍
 
-* [世界规划](fu-wu-qi-jie-shao/shi-jie-gui-hua.md)
+* [世界规划](fu-wu-qi-jie-shao/page-1.md)
 * [服务器成员](fu-wu-qi-jie-shao/fu-wu-qi-cheng-yuan.md)
 * [服务器简介](fu-wu-qi-jie-shao/fu-wu-qi-jian-jie.md)
 
