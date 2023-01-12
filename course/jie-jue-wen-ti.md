@@ -14,12 +14,18 @@ description: by 土拨鼠
 * _登录服务器显示“登录失败：暂时无法连接到身份脸证服务器，请稍后再试。”_  请检查您的网络，确保可以正常访问[皮肤站](https://skin.tbstmc.xyz)后重试。若一直不行，尝试重启启动器或网络。（试试，也许魔法可以）
 * _苹果设备无法上传皮肤/披风_   ~~尝试更换设备或皮肤/披风文件。~~ 已经确认为bug，等待官方修复！[Github issues](https://github.com/bs-community/blessing-skin-server/issues/509)
 
-### 其他
+## 其他
 
-#### 查找资料
+### 查找资料
 
 首先您可以访问我们的文档（没错就是这个破东西）
 
 其次您可以前往[搜索引擎](https://baidu.com)查找答案
 
 如果以上问题均为得到解决，请进入[QQ群](https://jq.qq.com/?\_wv=1027\&k=ToOzeOPU)询问！
+
+
+
+{% hint style="info" %}
+本界面持续更新，若您的问题并不包含在内，请前往[QQ群](https://jq.qq.com/?\_wv=1027\&k=ToOzeOPU)反馈！
+{% endhint %}
