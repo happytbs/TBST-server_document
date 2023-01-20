@@ -18,7 +18,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 * ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/0.png)
 * 2.选择游戏的详细设置
 * ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/1.png)
-* 3.在登陆服务器这里选择_第三方登录：Authlib Injector或LittleSkin_这一个选项
+* 3.在登陆服务器这里选择_第三方登录：Authlib Injector或LittleSkin_这一个选项_**（记住这里不是让你注册Littleskin啊啊啊啊啊啊啊啊啊啊啊啊啊）**_
 * ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/3.png)
 * 4.设置为对应的服务器的认证地址（在个人中心会显示）：[`https://skin.tbstmc.xyz/api/yggdrasil`](https://skin.tbstmc.xyz/api/yggdrasil)
 * ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/4.png)
@@ -37,7 +37,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 <figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-1-1024x636.png" alt=""><figcaption><p>第二步</p></figcaption></figure>
 
-* 3.设置为对应的服务器的认证地址，此处使用的是我们自己的SeaStar Skin皮肤站作为演示
+* 3.设置为Starfish Skin皮肤站的服务器的认证地址。
 
 > 验证服务器地址：[`https://skin.tbstmc.xyz/api/yggdrasil`](https://skin.tbstmc.xyz/api/yggdrasil)
 >
