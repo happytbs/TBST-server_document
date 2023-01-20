@@ -33,7 +33,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 <figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-1024x636.png" alt=""><figcaption><p>第一步</p></figcaption></figure>
 
-* 2.点击界面左下角的**添加认证服务器**
+* 2.点击界面左下角的**添加认证服务器**选项
 
 <figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-1-1024x636.png" alt=""><figcaption><p>第二步</p></figcaption></figure>
 
@@ -45,7 +45,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 <figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-2-1024x636.png" alt=""><figcaption><p>第三步 输入完前面地址后点击下一步</p></figcaption></figure>
 
-* 4.添加完毕后返回账户列本
+* 4.添加完毕后返回账户列表
 
 <figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-3-1024x636.png" alt=""><figcaption><p>第四步 看到这个界面说明添加成功了，点击完成</p></figcaption></figure>
 
