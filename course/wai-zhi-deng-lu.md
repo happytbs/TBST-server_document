@@ -49,7 +49,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 <figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-3-1024x636.png" alt=""><figcaption><p>第四步 看到这个界面说明添加成功了，点击完成</p></figcaption></figure>
 
-* 5.点击左侧出现的外置登录服务器名称，在弹出的窗口输入你的皮肤站账号和密
+* 5.点击左侧出现的外置登录服务器名称，在弹出的窗口输入你的皮肤站账号和密码
 
 <figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-5-1024x636.png" alt=""><figcaption><p>第五步 找到左侧新出现的外置登录服务器名称，点击他并填写你的账户密码</p></figcaption></figure>
 
