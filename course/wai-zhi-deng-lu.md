@@ -58,6 +58,6 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 **4.温馨提示**
 
-外置登陆不能与正版登陆并存，如果想关闭外置登陆，请在上述过程中，PCL可以在选择littleskin认证那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录等。
+外置登陆不能与正版登陆并存，如果想关闭外置登陆，请在上述过程中，PCL可以在选择登陆方式那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录等。
 
-如果有能力，建议还是支持下正版游戏吧，毕竟现在java和基岩捆绑销售才89（最近涨价过一次，不确定具体价格。可以前往[Minecraft官网](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)查看购买价格！）
+_如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才89RMB（可以前往_[_Minecraft官网_](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)_查看购买价格！）_
