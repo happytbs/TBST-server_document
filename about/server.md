@@ -1,5 +1,5 @@
 ---
-description: 废弃界面
+description: 已经被文档介绍内的服务器简介替代
 ---
 
 # 服务器简介
