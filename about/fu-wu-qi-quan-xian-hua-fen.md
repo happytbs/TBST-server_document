@@ -16,7 +16,7 @@ _服务器权限划分表（管理层）：_
 | 蛋仔派对蛋贩子（zihan123）          | 是      | 是    | 是       |
 | 一只Merry（BE\_ShawnMerry334） | 是      | 是    | 是       |
 | Yakamo（Yakamo\_QAQ）        | 是      | 是    | 否       |
-| Wanderer（）                 | 是      | 否    | 否       |
+| Wanderer（DragonHaoYu）      | 是      | 否    | 否       |
 | SO（Syphlix\_Oauthes）       | 否      | 是    | 否       |
 | m12619612123（m12619612123） | 否      | 是    | 否       |
 | 钢筋柱子（XiaoZhu\_2022）        | 否（已退群） | 是    | 否（已退群）  |
