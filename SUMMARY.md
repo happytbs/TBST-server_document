@@ -11,10 +11,10 @@
 
 ***
 
-* [群规](rules.md)
+* [‼ 群规](rules.md)
 
 ## 教程/帮助 <a href="#course" id="course"></a>
 
 * [遇到问题?](course/jie-jue-wen-ti.md)
 * [建筑技巧](course/jian-zhu-ji-qiao.md)
-* [配置外置登录](course/wai-zhi-deng-lu.md)
+* [⭐ 配置外置登录](course/wai-zhi-deng-lu.md)
