@@ -6,7 +6,7 @@
 
 目前所有镇：(已经符合要求)
 
-<table><thead><tr><th align="center">名称</th><th align="center">发起者</th><th data-hidden align="center">位置（中心点）</th></tr></thead><tbody><tr><td align="center">栗子镇</td><td align="center">土拨鼠[tuboshu]</td><td align="center">-</td></tr><tr><td align="center">豹猫镇</td><td align="center">土拨鼠[tuboshu]</td><td align="center">-</td></tr><tr><td align="center">zy镇</td><td align="center">zyqsbn[zyqsbn]</td><td align="center"></td></tr><tr><td align="center">HM镇</td><td align="center">（暂定）在防火墙打洞的海星[BE_Whirity404]</td><td align="center"></td></tr></tbody></table>
+<table><thead><tr><th align="center">名称</th><th align="center">发起者</th><th data-hidden align="center">位置（中心点）</th></tr></thead><tbody><tr><td align="center">栗子镇</td><td align="center">土拨鼠[tuboshu]</td><td align="center">-</td></tr><tr><td align="center">豹猫镇</td><td align="center">土拨鼠[tuboshu]</td><td align="center">-</td></tr><tr><td align="center">zy镇</td><td align="center">zyqsbn[zyqsbn]</td><td align="center"></td></tr><tr><td align="center">HM镇</td><td align="center">在防火墙打洞的海星[BE_Whirity404]</td><td align="center"></td></tr></tbody></table>
 
 ## **建设规划：**
 
