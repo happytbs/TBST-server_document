@@ -1,3 +1,7 @@
+---
+description: 界面已经废弃，等待下次更新删除
+---
+
 # 服务器成员
 
 ### 玩家(活跃):
@@ -23,6 +27,10 @@
 |      小小苦力怕      |  Little\_Creeper  |
 
 ### 管理: 
+
+
+
+新版请前往[#can-yu-guan-li-ren-yuan](fu-wu-qi-quan-xian-hua-fen.md#can-yu-guan-li-ren-yuan "mention")界面查看
 
 ***
 
