@@ -2,7 +2,7 @@
 description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 ---
 
-# 配置外置登录
+# ⭐ 配置外置登录
 
 **1.引子**
 

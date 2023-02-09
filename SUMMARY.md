@@ -6,7 +6,7 @@
 
 * [世界规划](about/project.md)
 * [服务器成员](about/member.md)
-* [😡 服务器权限划分](about/fu-wu-qi-quan-xian-hua-fen.md)
+* [😡 服务器人员/权限划分](about/fu-wu-qi-ren-yuan-quan-xian-hua-fen.md)
 * [服务器简介](about/server.md)
 
 ***

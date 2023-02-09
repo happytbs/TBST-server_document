@@ -28,9 +28,7 @@ description: 界面已经废弃，等待下次更新删除
 
 ### 管理: 
 
-
-
-新版请前往[#can-yu-guan-li-ren-yuan](fu-wu-qi-quan-xian-hua-fen.md#can-yu-guan-li-ren-yuan "mention")界面查看
+**详情请前往**[#can-yu-guan-li-ren-yuan](fu-wu-qi-ren-yuan-quan-xian-hua-fen.md#can-yu-guan-li-ren-yuan "mention")**界面查看**
 
 ***
 
