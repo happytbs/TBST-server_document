@@ -18,4 +18,6 @@ description: 快给那些xxs看！
 
 ### 普通成员/玩家
 
+然鹅这个表没什么卵用……
+
 <table><thead><tr><th>名称</th><th data-type="checkbox">服务器内OP</th><th data-type="checkbox">玩家群内管理</th><th data-type="checkbox">机器人操作权限</th></tr></thead><tbody><tr><td>QQ群名（MC名称）</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
