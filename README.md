@@ -32,16 +32,16 @@ _详细并且最新的服务器介绍请前往_ [**QQ群**](https://ock.cn/sada4
 
 经常被浏览的文档链接🔗：
 
-{% content-ref url="course/jie-jue-wen-ti.md" %}
-[jie-jue-wen-ti.md](course/jie-jue-wen-ti.md)
+{% content-ref url="rules.md" %}
+[rules.md](rules.md)
 {% endcontent-ref %}
 
 {% content-ref url="course/wai-zhi-deng-lu.md" %}
 [wai-zhi-deng-lu.md](course/wai-zhi-deng-lu.md)
 {% endcontent-ref %}
 
-{% content-ref url="rules.md" %}
-[rules.md](rules.md)
+{% content-ref url="course/jie-jue-wen-ti.md" %}
+[jie-jue-wen-ti.md](course/jie-jue-wen-ti.md)
 {% endcontent-ref %}
 
 ***
