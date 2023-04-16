@@ -4,7 +4,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 # ⭐ 配置外置登录
 
-**1.引子**
+### 引子
 
 **要想进入TBSTCraft并且没有正版账户的看过来，服务器现在支持注册皮肤站上服了。**
 
@@ -16,7 +16,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 > 2. 下载（或准备）好一个你可以**正常使用**的MC游戏版本
 > 3. 一个能**正常**连上皮肤站的设备
 
-**2.PCL2使用外置登陆** ——by Cube
+### **PCL2使用外置登陆** ——by Cube
 
 * 1.先打开PCL启动器，选择你要配置的游戏版本，并点击设置
 * ![](../.gitbook/assets/pcl2-1.png)
@@ -34,39 +34,58 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 * 6.输入完信息后，点击启动游戏，如果**账户密码正确**，则启动器会自动帮你登陆完成并且启动游戏。
 * 进入游戏后，就可以前往服务器进行游玩了
 
-**3.HMCL使用外置登陆** ——by 土拨鼠
+### **HMCL使用外置登陆** ——by 土拨鼠
 
 * 1.先打开HMCL启动器，点击**添加账户**
-
-<figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-1024x636.png" alt=""><figcaption><p>第一步</p></figcaption></figure>
-
+* ![](../.gitbook/assets/hmcl-1.png)
 * 2.点击界面左下角的**添加认证服务器**选项
-
-<figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-1-1024x636.png" alt=""><figcaption><p>第二步</p></figcaption></figure>
-
+* ![](../.gitbook/assets/hmcl-2.png)
 * 3.设置为Starfish Skin皮肤站的服务器的认证地址。
+* ![](../.gitbook/assets/hmcl-3.png)
 
 > 验证服务器地址：[`https://skin.tbstmc.xyz/api/yggdrasil`](https://skin.tbstmc.xyz/api/yggdrasil)
 >
 > _在Starfish Skin个人主页的下方即可查看_
 
-<figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-2-1024x636.png" alt=""><figcaption><p>第三步 输入完前面地址后点击下一步</p></figcaption></figure>
-
 * 4.添加完毕后返回账户列表
-
-<figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-3-1024x636.png" alt=""><figcaption><p>第四步 看到这个界面说明添加成功了，点击完成</p></figcaption></figure>
-
-* 5.点击左侧出现的外置登录服务器名称，在弹出的窗口输入你的皮肤站账号和密码
-
-<figure><img src="https://blog.tuboshu233.xyz/wp-content/uploads/2022/08/image-5-1024x636.png" alt=""><figcaption><p>第五步 找到左侧新出现的外置登录服务器名称，点击他并填写你的账户密码</p></figcaption></figure>
-
-* 6..输入完信息后，点击启动游戏，启动器会自动帮你登陆完成。
+* ![](../.gitbook/assets/hmcl-4.png)
+* 5.点击左侧出现的外置登录服务器名称，
+* ![](../.gitbook/assets/hmcl-5.png)
+* 在弹出的窗口输入你的皮肤站账号和密码，输入完毕后点击 _完成_
+* ![](../.gitbook/assets/hmcl-6.png)
+* 6.返回到主界面，点击启动游戏，启动器会自动帮你登陆完成。
 * 至此，外置登陆配置就好了！
 
-**4.温馨提示**
+
+
+### Bakaxl启动器配置教程 ——by 土拨鼠
+
+* 打开Bakaxl，进入 _本体设置_
+* ![](../.gitbook/assets/bakaxl-1.png)
+* 找到设置里侧边的 _账户与档案_
+* ![](../.gitbook/assets/bakaxl-2.png)
+* 拉到底部，点击 _新增一个档案_
+* ![](../.gitbook/assets/bakaxl-3.png)
+* 找到游戏启动模式 点击三次 _离线模式 文字_来切换到外置登录
+* ![](../.gitbook/assets/bakaxl-4.png)
+* 在 _账户信息_ 里填写认证服务器地址
+* ![](../.gitbook/assets/bakaxl-5.png)
+
+> 验证服务器地址：[`https://skin.tbstmc.xyz/api/yggdrasil`](https://skin.tbstmc.xyz/api/yggdrasil)
+>
+> _在Starfish Skin个人主页的下方即可查看_
+
+* 输入完毕后，Bakaxl会校验验证服务器地址，
+* ![](../.gitbook/assets/bakaxl-6.png)
+* 验证完毕后，即可输入账户密码，输入完毕后，点击左下角的 _验证并返回_
+* ![](../.gitbook/assets/bakaxl-7.png)
+* 返回到主界面，点击启动游戏，启动器会自动帮你登陆完成。
+* 至此，外置登陆配置就好了！
+
+### **温馨提示**
 
 **如果你连怎么安装MC都不会，请正确使用搜索引擎来解决问题。**
 
-**外置登陆**不能与**正版登陆**并存，如果想关闭外置登陆，请在上述过程中，PCL2可以在选择登陆方式那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录等。
+**外置登陆**不能与**正版登陆**并存，如果想关闭外置登陆，请在上述过程中，PCL2可以在选择登陆方式那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录，Bakaxl可以在账户与档案中点击你需要的账户来进行切换等。
 
 _如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才89RMB（可以前往_[_Minecraft官网_](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)_查看购买价格！）_
