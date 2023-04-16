@@ -2,7 +2,7 @@
 
 * [文档介绍](README.md)
 
-## 服务器介绍 <a href="#about" id="about"></a>
+## 服务器信息 <a href="#about" id="about"></a>
 
 * [世界规划](about/project.md)
 * [服务器成员](about/member.md)
