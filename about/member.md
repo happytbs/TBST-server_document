@@ -15,7 +15,6 @@ description: 界面已经废弃，等待下次更新删除
 |       土拨鼠       |      tuboshu      |
 |       草方块       |   GrassBlock2022  |
 |     zihan123    |      zihan123     |
-|      xxs嘿客      |   BE\_Whirity404  |
 |     一只Merry     | BE\_ShawnMerry334 |
 |   pok OS寶可操作系統  |    pokOS\_hlts    |
 |      summer     |     summer0v0     |
@@ -28,15 +27,14 @@ description: 界面已经废弃，等待下次更新删除
 
 ### 管理
 
-**详情请前往**[#can-yu-guan-li-ren-yuan](fu-wu-qi-ren-yuan-quan-xian-hua-fen.md#can-yu-guan-li-ren-yuan "mention")**界面查看**
+**最新信息请前往**[#can-yu-guan-li-ren-yuan](fu-wu-qi-ren-yuan-quan-xian-hua-fen.md#can-yu-guan-li-ren-yuan "mention")**界面查看**
 
-|    qqID   |        mcID       |
-| :-------: | :---------------: |
-|    土拨鼠    |      tuboshu      |
-|    草方块    |   GrassBlock2022  |
-|  飞在天上的海星  |      CubeVlmu     |
-|  zihan123 |      zihan123     |
-| 在防火墙打洞的海星 |   BE\_Whirity404  |
-|  一只Merry  | BE\_ShawnMerry334 |
+|   qqID   |        mcID       |
+| :------: | :---------------: |
+|    土拨鼠   |      tuboshu      |
+|    草方块   |   GrassBlock2022  |
+| zihan123 |      zihan123     |
+|  飞在天上的海星 |      CubeVlmu     |
+|  一只Merry | BE\_ShawnMerry334 |
 
 ***

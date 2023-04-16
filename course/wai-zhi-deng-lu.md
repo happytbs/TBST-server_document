@@ -10,21 +10,28 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 **外置登陆**是离线Minecraft服务器的一种账户的认证方式，原理是利用原版Minecraft的api进行修改认证服务器，做到走自己的第三方服务器来进行认证和来还原原版Minecraft登陆的体验！下面我们来介绍**PCL2**和**HMCL**启动器的外置登陆使用方法！
 
-> **若您要上服，在使用前请先前往**[**Starfish Skin**](https://skin.tbstmc.xyz)**进行登录或者注册以保证后续步骤可以正常使用**！
+> **若您要上服，，请做好以下准备**
+>
+> 1. **在使用前请先前往**[**Starfish Skin**](https://skin.tbstmc.xyz)**进行登录或者注册以保证后续步骤可以正常使用**！
+> 2. 下载（或准备）好一个你可以正常使用的MC游戏版本
+> 3. 一个能正常连上皮肤站的设备
 
 **2.PCL2使用外置登陆** ——by Cube
 
 * 1.先打开PCL启动器，选择你要配置的游戏版本，并点击设置
-* ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/0.png)
+* ![](../.gitbook/assets/pcl2-1.png)
 * 2.选择游戏的详细设置
-* ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/1.png)
-* 3.在登陆服务器这里选择_第三方登录：Authlib Injector或LittleSkin_这一个选项_**（记住这里不是让你注册Littleskin啊啊啊啊啊啊啊啊啊啊啊啊啊）**_
-* ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/3.png)
-* 4.设置为Starfish Skin皮肤站的认证地址（在个人中心会显示）：[`https://skin.tbstmc.xyz/api/yggdrasil`](https://skin.tbstmc.xyz/api/yggdrasil)
-* ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/4.png)
+* ![](../.gitbook/assets/pcl2-2.png)
+* 3.拉到界面底部
+* ![](../.gitbook/assets/pcl2-3.png)
+* 4.在登陆服务器这里选择_第三方登录：Authlib Injector或 LittleSkin_这一个选项_**（记住这里不是让你注册Littleskin啊啊啊啊啊啊啊啊啊啊啊啊啊）**_
+* ![](../.gitbook/assets/pcl2-4.png)
+* 4.设置为Starfish Skin皮肤站的认证地址（在皮肤站的个人中心会显示）：[`https://skin.tbstmc.xyz/api/yggdrasil`](https://skin.tbstmc.xyz/api/yggdrasil)
+* ![](../.gitbook/assets/pcl2-5.png)
+* 注意：**千万**<mark style="color:red;">**不要**</mark>**点底下的** _设置为 LittleSkin_ **按钮，直接返回即可保存**
+* ![](../.gitbook/assets/pcl2-6.png)
 * 5.返回主页，在弹出的登陆位置输入你的皮肤站账号（邮箱）和密码
-* ![](https://blog.tuboshu233.xyz/wp-content/uploads/2022/06/5.png)
-* 6.输入完信息后，点击启动游戏，启动器会自动帮你登陆完成。
+* 6.输入完信息后，点击启动游戏，如果**账户密码正确**，则启动器会自动帮你登陆完成并且启动游戏。
 * 进入游戏后，就可以前往服务器进行游玩了
 
 **3.HMCL使用外置登陆** ——by 土拨鼠
