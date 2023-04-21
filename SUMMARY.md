@@ -14,3 +14,7 @@
 
 * [常见问题](course/jie-jue-wen-ti.md)
 * [建筑技巧](course/jian-zhu-ji-qiao.md)
+
+## 其他 <a href="#others" id="others"></a>
+
+* [官网更新日志](others/guan-wang-geng-xin-ri-zhi.md)

@@ -6,6 +6,8 @@ description: TBSTCraft这个MC服务器的文档
 
 <figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>TBST 旗下创造服</p></figcaption></figure>
 
+<figure><img src="https://img.shields.io/static/v1?label=%E7%89%88%E6%9C%AC&#x26;message=3.5.0&#x26;color=blue" alt=""><figcaption><p>文档信息</p></figcaption></figure>
+
 ## 关于服务器
 
 ### TBSTCraft服务器
@@ -54,3 +56,4 @@ _文档第六次大更新已经开始，敬请期待！_
 * 草方块
 * 薄荷布丁
 * 尤其感谢TBST群内奇葩的玩家们提出的奇葩的问题……~~总之我感觉我看完后我智商被侮辱了~~
+
