@@ -6,7 +6,8 @@
 
 ## 服务器信息 <a href="#about" id="about"></a>
 
-* [世界规划](about/project.md)
+* [世界规划](about/project/README.md)
+  * [TBSTCraft分区计划草案](about/project/tbstcraft-fen-qu-ji-hua-cao-an.md)
 * [服务器成员](about/member.md)
 * [😡 服务器人员/权限划分](about/fu-wu-qi-ren-yuan-quan-xian-hua-fen.md)
 
@@ -18,3 +19,4 @@
 ## 其他 <a href="#others" id="others"></a>
 
 * [官网更新日志](others/guan-wang-geng-xin-ri-zhi.md)
+* [未来规划](others/wei-lai-gui-hua.md)
