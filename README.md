@@ -12,9 +12,13 @@ description: TBSTCraft这个MC服务器的文档
 
 ### TBSTCraft服务器
 
-_服务器支持Java/基岩双版本上服，\[Java]支持正版/StarfishSkin双登录方式。我们正在添加更多的玩法，未来将覆盖更多的平台。_
+_服务器支持Java/基岩双版本上服，\[Java]支持正版/StarfishSkin双登录方式。我们正在添加更多的玩法，未来将覆盖更多的平台。同时欢迎您在群内积极向我们建言献策_
 
-> **服务器上服地址:** _game.tbstmc.xyz_
+> **服务器上服地址:** _game.tbstmc.xyz （Java基岩版端口均默认）_
+>
+> 支持版本 Java 1.12.2-1.19.3 基岩 1.19.2以上
+>
+> &#x20;[_外置登录教程_](wai-zhi-deng-lu.md)
 >
 > [官网](https://tbstmc.xyz) [皮肤站](https://skin.tbstmc.xyz) [加入qq群](https://jq.qq.com/?\_wv=1027\&k=2tS7cxcw) [没啥用的论坛](https://bbs.tbstmc.xyz)
 
@@ -30,9 +34,7 @@ _详细并且最新的服务器介绍请前往_ [**QQ群**](https://ock.cn/sada4
 > _解决问题流程：_ _遇到问题_ ➡️➡️保留图片/日志/视频等证明你遇到了问题 ➡️➡️_尝试重试/重复实现_ ➡️➡️**查询文档**➡️➡️**正确使用**_搜索引擎查找_ ➡️➡️\
 > _查询群内公告_**（尤其是置顶的）**➡️➡️_在群内询问_ **若仍然无解，请耐心等待群内消息或尝试询问其他人**
 
-**其中包括如何使用**[**⭐外置登录⭐**](wai-zhi-deng-lu.md)**；登录服务器常见问题等**。更多内容等待你们的补充！
-
-经常被浏览的文档链接🔗：
+常用文档🔗：
 
 {% content-ref url="wai-zhi-deng-lu.md" %}
 [wai-zhi-deng-lu.md](wai-zhi-deng-lu.md)
