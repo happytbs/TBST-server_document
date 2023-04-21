@@ -9,7 +9,7 @@
 * [世界规划](about/project/README.md)
   * [TBSTCraft分区计划草案](about/project/tbstcraft-fen-qu-ji-hua-cao-an.md)
 * [服务器成员](about/member.md)
-* [😡 服务器人员/权限划分](about/fu-wu-qi-ren-yuan-quan-xian-hua-fen.md)
+* [😡 服务器管理权限划分](about/fu-wu-qi-guan-li-quan-xian-hua-fen.md)
 
 ## 教程/帮助 <a href="#course" id="course"></a>
 

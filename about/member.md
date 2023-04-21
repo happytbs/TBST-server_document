@@ -1,5 +1,5 @@
 ---
-description: 界面已经废弃，等待下次更新删除
+description: 界面已经废弃，等待以后更新删除
 ---
 
 # 服务器成员
@@ -27,7 +27,7 @@ description: 界面已经废弃，等待下次更新删除
 
 ### 管理
 
-**最新信息请前往**[#can-yu-guan-li-ren-yuan](fu-wu-qi-ren-yuan-quan-xian-hua-fen.md#can-yu-guan-li-ren-yuan "mention")**界面查看**
+**最新信息请前往**[#can-yu-guan-li-ren-yuan](fu-wu-qi-guan-li-quan-xian-hua-fen.md#can-yu-guan-li-ren-yuan "mention")**界面查看**
 
 |   qqID   |        mcID       |
 | :------: | :---------------: |
