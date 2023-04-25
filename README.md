@@ -6,7 +6,7 @@ description: TBSTCraft这个MC服务器的文档
 
 <figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>TBST 旗下创造服</p></figcaption></figure>
 
-<figure><img src="https://img.shields.io/static/v1?label=%E7%89%88%E6%9C%AC&#x26;message=3.5.1&#x26;color=blue" alt=""><figcaption><p>文档信息</p></figcaption></figure>
+<figure><img src="https://img.shields.io/static/v1?label=%E7%89%88%E6%9C%AC&#x26;message=3.5.2&#x26;color=blue" alt=""><figcaption><p>文档信息</p></figcaption></figure>
 
 ## 关于服务器
 
@@ -27,9 +27,11 @@ _详细并且最新的服务器介绍请前往_ [**QQ群**](https://ock.cn/sada4
 ## 关于文档
 
 > _旧版文档上线于2022.1.29_\
-> **新版于2023.1.11重置上线**
+> 新版文档于2023.1.11重置上线
 
-~~_不扯了，这个文档的作用就是扔给那些一不看公告二就会在群里下bb的奇葩玩家们_~~_（不特指任何人）_ 这个文档是给游玩TBSTCraft服务器的玩家们提供帮助的地方，涵盖了安装MC到登录服务器遇到的各种问题。
+### 文档简介
+
+~~_不扯了，这个文档的作用就是扔给那些一不看公告二就会在群里下bb的奇葩玩家们_~~_（不特指任何人）_ 这个文档是给游玩TBSTCraft服务器的玩家们提供帮助的地方，涵盖了配置外置登录到进入服务器遇到的各种问题。
 
 > _解决问题流程：_ _遇到问题_ ➡️➡️保留图片/日志/视频等证明你遇到了问题 ➡️➡️_尝试重试/重复实现_ ➡️➡️**查询文档**➡️➡️**正确使用**_搜索引擎查找_ ➡️➡️\
 > _查询群内公告_**（尤其是置顶的）**➡️➡️_在群内询问_ **若仍然无解，请耐心等待群内消息或尝试询问其他人**
@@ -49,8 +51,6 @@ _详细并且最新的服务器介绍请前往_ [**QQ群**](https://ock.cn/sada4
 {% endcontent-ref %}
 
 ***
-
-_文档第六次大更新已经开始，敬请期待！_
 
 ### 贡献人员
 
