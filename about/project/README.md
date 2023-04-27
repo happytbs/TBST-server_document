@@ -16,7 +16,7 @@ description: 神🐎离谱的规划
 
 ### **铁路规划**
 
-### ![](../.gitbook/assets/TBST铁路规划图.png)
+### ![](../../.gitbook/assets/TBST铁路规划图.png)
 
 补充：商务线已经更名为2号线，新苦力怕城站 和 栗子镇实验室已经被取消，红石空置域站 暂缓开通。三号线规划已经废除。
 
@@ -24,7 +24,7 @@ description: 神🐎离谱的规划
 
 ### 公路规划
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 第一版
 

@@ -6,8 +6,9 @@
 
 ## 服务器信息 <a href="#about" id="about"></a>
 
-* [世界规划](about/project.md)
+* [世界规划](about/project/README.md)
 * [😡 服务器管理权限划分](about/fu-wu-qi-guan-li-quan-xian-hua-fen.md)
+* [🤣 TBSTの企业？](about/tbstno.md)
 
 ## 教程/帮助 <a href="#course" id="course"></a>
 
@@ -17,5 +18,6 @@
 ## 其他 <a href="#others" id="others"></a>
 
 * [官网更新日志](others/guan-wang-geng-xin-ri-zhi.md)
-* [未来规划](others/wei-lai-gui-hua/README.md)
-  * [TBSTCraft分区计划草案](others/wei-lai-gui-hua/tbstcraft-fen-qu-ji-hua-cao-an.md)
+* [未来规划](others/wei-lai-gui-hua.md)
+  * [官网更新计划](others/wei-lai-gui-hua/guan-wang-geng-xin-ji-hua.md)
+  * [TBSTCraft分区计划草案](about/project/tbstcraft-fen-qu-ji-hua-cao-an.md)
