@@ -14,7 +14,7 @@ description: TBSTCraft这个MC服务器的文档
 
 _服务器支持Java/基岩双版本上服，\[Java]支持正版/StarfishSkin双登录方式。我们正在添加更多的玩法，未来将覆盖更多的平台。同时欢迎您在群内积极向我们建言献策_
 
-> **服务器上服地址:** _game.tbstmc.xyz （Java基岩版端口均默认）_
+> **服务器上服地址:** _game.tbstmc.xyz （Java版和基岩版端口均默认）_
 >
 > 支持版本 Java 1.12.2-1.19.3 基岩 1.19.2以上
 >

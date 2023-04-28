@@ -2,7 +2,7 @@
 description: 快给那些xxs看！
 ---
 
-# 😡 服务器人员/权限划分
+# 😡 服务器管理权限划分
 
 ## 权限说明
 
@@ -14,16 +14,14 @@ description: 快给那些xxs看！
 
 服务器参与管理人员权限划分表（排名不分先后）：
 
-<table><thead><tr><th>名称（QQ群名+MC名称）</th><th data-type="checkbox">服务器内OP</th><th data-type="checkbox">玩家群内管理</th><th data-type="checkbox">机器人操作权限</th></tr></thead><tbody><tr><td>土拨鼠（tuboshu）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>GrassBlock2022（GrassBlock2022）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>飞在天上的海* ☭（CubeVlmu）</td><td>true</td><td>true</td><td>false</td></tr><tr><td>emo了（zihan123）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>一只Merry（BE_ShawnMerry334）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>梦想者（wdskwwwww）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>SO（Syphlix_Oauthes）</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Yakamo（Yakamo_QAQ）</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Wanderer（DragonHaoYu）</td><td>false</td><td>true</td><td>false</td></tr><tr><td>钢筋柱子（XiaoZhu_2022）</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>名称（QQ群名+MC名称）</th><th data-type="checkbox">服务器内OP</th><th data-type="checkbox">机器人操作权限</th><th data-type="checkbox">玩家群内管理</th></tr></thead><tbody><tr><td>土拨鼠（tuboshu）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>GrassBlock2022（GrassBlock2022）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>飞在天上的海* ☭（CubeVlmu）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>emo了（zihan123）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>一只Merry（BE_ShawnMerry334）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>梦想者（wdskwwwww）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>SO（Syphlix_Oauthes）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Yakamo（Yakamo_QAQ）</td><td>false</td><td>false</td><td>true</td></tr><tr><td>钢筋柱子（XiaoZhu_2022）</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
 
-_（群管理具体情况见群内）_
+### 合作方
 
-### 实习管理人员（暂不支持主动申请）
+本服暂时不接待合作
 
-<table><thead><tr><th>名称</th><th data-type="checkbox">服务器内OP</th><th data-type="checkbox">玩家群内管理</th><th data-type="checkbox">机器人操作权限</th></tr></thead><tbody><tr><td>QQ群名（MC名称）</td><td>false</td><td>true</td><td>false</td></tr></tbody></table>
 
-### 普通成员/玩家
 
-然鹅这个表没什么卵用……
-
-<table><thead><tr><th>名称</th><th data-type="checkbox">服务器内OP</th><th data-type="checkbox">玩家群内管理</th><th data-type="checkbox">机器人操作权限</th></tr></thead><tbody><tr><td>QQ群名（MC名称）</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
+{% hint style="info" %}
+服务器权力划分均参考本界面规定，如发现越权行为请及时向群管或op举报
+{% endhint %}

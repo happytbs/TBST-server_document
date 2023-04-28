@@ -2,7 +2,7 @@
 description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 ---
 
-# ⭐ 配置外置登录
+# ⭐ 配置外置登录教程
 
 ### 引子
 
@@ -86,6 +86,6 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 **如果你连怎么安装MC都不会，请正确使用搜索引擎来解决问题。**
 
-**外置登陆**不能与**正版登陆**并存，如果想关闭外置登陆，请在上述过程中，PCL2可以在选择登陆方式那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录，BakaXL可以在账户与档案中点击你需要的账户来进行切换等。
-
-_如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才89RMB（可以前往_[_Minecraft官网_](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)_查看购买价格！）_
+> **外置登陆**不能与**正版登陆**并存，如果想关闭外置登陆，请在上述过程中，PCL2可以在选择登陆方式那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录，BakaXL可以在账户与档案中点击你需要的账户来进行切换等。
+>
+> _如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才 89 元（可以前往_[_Minecraft官网_](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)_查看购买价格！）_

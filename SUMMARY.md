@@ -1,14 +1,14 @@
 # Table of contents
 
 * [文档介绍](README.md)
-* [⭐ 配置外置登录](wai-zhi-deng-lu.md)
+* [⭐ 配置外置登录教程](wai-zhi-deng-lu.md)
 * [‼ 群规](rules.md)
 
 ## 服务器信息 <a href="#about" id="about"></a>
 
 * [世界规划](about/project/README.md)
 * [😡 服务器管理权限划分](about/fu-wu-qi-guan-li-quan-xian-hua-fen.md)
-* [🤣 TBSTの企业？](about/tbstno.md)
+* [🤣 TBSTCraftの企业？](about/tbstcraftno.md)
 
 ## 教程/帮助 <a href="#course" id="course"></a>
 
