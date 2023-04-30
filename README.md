@@ -2,7 +2,7 @@
 description: TBSTCraft这个MC服务器的文档
 ---
 
-# 文档介绍
+# 🙂 文档介绍
 
 <figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>TBST 旗下创造服</p></figcaption></figure>
 
@@ -25,6 +25,8 @@ _服务器支持Java/基岩双版本上服，\[Java]支持正版/StarfishSkin双
 _详细并且最新的服务器介绍请前往_ [**QQ群**](https://ock.cn/sada4) _查看_
 
 ## 关于文档
+
+文档存在的意义就是帮助玩家们顺利解决自己遇到的问题
 
 > _旧版文档上线于2022.1.29_\
 > 新版文档于2023.1.11重置上线
@@ -56,6 +58,5 @@ _详细并且最新的服务器介绍请前往_ [**QQ群**](https://ock.cn/sada4
 
 * 土拨鼠
 * 草方块
-* 薄荷布丁
-* 尤其感谢TBST群内奇葩的玩家们提出的奇葩的问题……~~总之我感觉我看完后我智商被侮辱了~~
+* 兰熙不是兰溪 ⁧\~嗷呜⁧⁧
 

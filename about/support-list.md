@@ -2,7 +2,7 @@
 description: 支持和考虑支持的版本会在这里列出
 ---
 
-# 服务器支持版本列表
+# 支持版本列表
 
 
 
@@ -70,11 +70,13 @@ description: 支持和考虑支持的版本会在这里列出
 {% endtab %}
 
 {% tab title="我的世界（网易版）" %}
-支持你麻痹的
+## **支持你妈的，想多了吧**
 {% endtab %}
 
 {% tab title="迷你世界" %}
 [支持版本具体说明](https://www.bilibili.com/video/BV19i4y197x4/)
+
+看完之后就知道怎么做了（dogo）
 {% endtab %}
 {% endtabs %}
 
