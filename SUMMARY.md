@@ -9,6 +9,7 @@
 * [世界规划](about/project/README.md)
 * [😡 服务器管理权限划分](about/fu-wu-qi-guan-li-quan-xian-hua-fen.md)
 * [🤣 TBSTCraftの企业？](about/tbstcraftno.md)
+* [服务器支持版本列表](about/support-list.md)
 
 ## 教程/帮助 <a href="#course" id="course"></a>
 

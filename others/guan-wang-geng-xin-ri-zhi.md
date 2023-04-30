@@ -6,7 +6,17 @@ description: 仅记录2023.4.21以后的2.0版本官网更新内容
 
 <details>
 
-<summary>2.4.1</summary>
+<summary>2.4.1+ - v12</summary>
+
+* 更新友情链接
+* 补充管理组信息
+*
+
+</details>
+
+<details>
+
+<summary>2.4.1 - v11</summary>
 
 1. 修正信息，补充内容
 2. 精简友情链接
@@ -17,7 +27,7 @@ description: 仅记录2023.4.21以后的2.0版本官网更新内容
 
 <details>
 
-<summary>2.4.0</summary>
+<summary>2.4.0 - v10</summary>
 
 1. 查询服务器运行状态入口调整，按钮UI调整
 2. 新增服务器发展时间轴！（待完善）
