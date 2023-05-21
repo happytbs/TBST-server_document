@@ -2,13 +2,13 @@
 description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 ---
 
-# ⭐ 配置外置登录教程
+# ⭐ 配置外置登录
 
 ### 引子
 
 **要想进入TBSTCraft并且没有正版账户的看过来，服务器现在支持注册皮肤站上服了。**
 
-**外置登陆**是离线Minecraft服务器的一种账户的认证方式，原理是利用原版Minecraft的api进行修改认证服务器，做到走自己的第三方服务器来进行认证和来还原原版Minecraft登陆的体验！下面我们来介绍**PCL2、HMCL和BakaXL**启动器的外置登陆使用方法！
+**外置登陆**是离线Minecraft服务器的一种账户的认证方式，原理是利用原版Minecraft的api进行修改认证服务器，做到走自己的第三方服务器来进行认证和来还原原版Minecraft登陆的体验！下面我们来介绍**PCL2、HMCL和BakaXL**启动器他们分别的外置登陆使用方法！
 
 > **若您要上服，，请做好以下准备**
 >
@@ -66,7 +66,7 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 * ![](.gitbook/assets/bakaxl-2.png)
 * 拉到底部，点击 _新增一个档案_
 * ![](.gitbook/assets/bakaxl-3.png)
-* 找到游戏启动模式 点击三次 _离线模式 文字_来切换到外置登录
+* 找到游戏启动模式 分别点击三次 _离线模式 位置的文字_ 来切换到外置登录
 * ![](.gitbook/assets/bakaxl-4.png)
 * 在 _账户信息_ 里填写认证服务器地址
 * ![](.gitbook/assets/bakaxl-5.png)
@@ -88,4 +88,4 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 > **外置登陆**不能与**正版登陆**并存，如果想关闭外置登陆，请在上述过程中，PCL2可以在选择登陆方式那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录，BakaXL可以在账户与档案中点击你需要的账户来进行切换等。
 >
-> _如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才 89 元（可以前往_[_Minecraft官网_](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)_查看购买价格！）_
+> _如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才 89 元。可以前往_[~~_Minecraft官网_~~](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)_不知为什么Minecraft官网已经被锁区，请前往_[_XBOX_](https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj)_查看价格_ ）

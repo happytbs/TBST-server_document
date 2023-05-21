@@ -8,7 +8,7 @@ description: TBSTCraft这个MC服务器的文档
 
 <figure><img src="https://img.shields.io/static/v1?label=%E7%89%88%E6%9C%AC&#x26;message=3.5.2&#x26;color=blue" alt="az"><figcaption><p>文档信息</p></figcaption></figure>
 
-## 关于服务器
+## 关于
 
 ### TBSTCraft服务器
 
@@ -16,18 +16,13 @@ _服务器支持Java/基岩双版本上服，\[Java]支持正版/StarfishSkin双
 
 > **服务器上服地址:** _game.tbstmc.xyz （Java版和基岩版端口均默认）_
 >
-> 支持版本 Java 1.12.2-1.19.3 基岩 1.19.2以上
+> 支持版本 Java 1.12.2-1.19.4 基岩版最低要求在 1.19.4以上
 >
-> &#x20;[_外置登录教程_](wai-zhi-deng-lu.md)
+> &#x20;_外置登录：_[_外置登录教程_](wai-zhi-deng-lu.md)
 >
-> [官网](https://tbstmc.xyz) [皮肤站](https://skin.tbstmc.xyz) [加入qq群](https://jq.qq.com/?\_wv=1027\&k=2tS7cxcw) [没啥用的论坛](https://bbs.tbstmc.xyz) [反馈问题](https://wj.qq.com/s2/12345977/adeb/)
+> [官网](https://tbstmc.xyz) [皮肤站](https://skin.tbstmc.xyz) [加入QQ群](https://jq.qq.com/?\_wv=1027\&k=2tS7cxcw) [没啥用的论坛](https://bbs.tbstmc.xyz) [反馈问题](https://wj.qq.com/s2/12345977/adeb/)
 
 ## 关于文档
-
-文档存在的意义就是帮助玩家们顺利解决自己遇到的问题\~
-
-> _旧版文档上线于2022.1.29_\
-> 新版文档于2023.1.11重置上线
 
 ### 文档简介
 
@@ -36,25 +31,27 @@ _服务器支持Java/基岩双版本上服，\[Java]支持正版/StarfishSkin双
 > _解决问题流程：_ _遇到问题_ ➡️➡️保留图片/日志/视频等证明你遇到了问题 ➡️➡️_尝试重试/重复实现_ ➡️➡️**查询文档**➡️➡️**正确使用**_搜索引擎查找_ ➡️➡️\
 > _查询群内公告_**（尤其是置顶的）**➡️➡️_在群内询问_ **若仍然无解，请耐心等待群内消息或尝试询问其他人**
 
-常用文档🔗：
+#### 常用文档🔗：
 
 {% content-ref url="wai-zhi-deng-lu.md" %}
 [wai-zhi-deng-lu.md](wai-zhi-deng-lu.md)
-{% endcontent-ref %}
-
-{% content-ref url="rules.md" %}
-[rules.md](rules.md)
 {% endcontent-ref %}
 
 {% content-ref url="course/jie-jue-wen-ti.md" %}
 [jie-jue-wen-ti.md](course/jie-jue-wen-ti.md)
 {% endcontent-ref %}
 
-***
+{% content-ref url="rules.md" %}
+[rules.md](rules.md)
+{% endcontent-ref %}
 
-### 贡献人员
+> _旧版文档上线于2022.1.29_\
+> 新版文档于2023.1.11重置上线
+
+#### 贡献人员
 
 * 土拨鼠
 * 草方块
-* 兰熙不是兰溪 ⁧\~嗷呜⁧⁧
+* 兰熙不是兰溪 ⁧\~嗷呜
+* 等待添加……⁧⁧
 
