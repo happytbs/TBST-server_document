@@ -6,6 +6,7 @@
 
 ## 服务器信息 <a href="#about" id="about"></a>
 
+* [服务器介绍](about/introduction.md)
 * [世界规划](about/project/README.md)
 * [管理人员权限划分](about/fu-wu-qi-guan-li-quan-xian-hua-fen.md)
 * [TBSTCraftの企业](about/tbstcraftno.md)
@@ -13,6 +14,7 @@
 
 ## 教程/帮助 <a href="#course" id="course"></a>
 
+* [群/服梗解释](course/qun-fu-geng-jie-shi.md)
 * [❓ 常见问题](course/jie-jue-wen-ti.md)
 * [建筑技巧](course/jian-zhu-ji-qiao.md)
 

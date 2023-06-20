@@ -6,7 +6,7 @@ description: TBSTCraft这个MC服务器的文档
 
 <figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>TBST 旗下创造服</p></figcaption></figure>
 
-<figure><img src="https://img.shields.io/static/v1?label=%E7%89%88%E6%9C%AC&#x26;message=3.5.2&#x26;color=blue" alt="az"><figcaption><p>文档信息</p></figcaption></figure>
+<figure><img src="https://img.shields.io/static/v1?label=%E7%89%88%E6%9C%AC&#x26;message=3.5.5&#x26;color=blue" alt="" width="188"><figcaption><p>文档信息</p></figcaption></figure>
 
 ## 关于
 
