@@ -6,7 +6,6 @@
 
 ## 服务器信息 <a href="#about" id="about"></a>
 
-* [服务器介绍](about/introduction.md)
 * [世界规划](about/project/README.md)
 * [管理人员权限划分](about/fu-wu-qi-guan-li-quan-xian-hua-fen.md)
 * [TBSTCraftの企业](about/tbstcraftno.md)
