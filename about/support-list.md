@@ -51,7 +51,7 @@ description: 支持和考虑支持的版本会在这里列出
 {% endtab %}
 
 {% tab title="Bedrock Edition（基岩版）" %}
-1.19.80 - 1.20.1
+1.19.90 - 1.20.1
 
 1.19以下版本均不会受到支持
 {% endtab %}
