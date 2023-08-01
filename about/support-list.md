@@ -65,7 +65,7 @@ description: 支持和考虑支持的版本会在这里列出
 {% tab title="迷你世界" %}
 [支持版本具体说明](https://www.bilibili.com/video/BV19i4y197x4/)
 
-看完之后就知道怎么做了（dogo）
+看完之后就知道怎么做了（dogo）\~
 {% endtab %}
 {% endtabs %}
 
