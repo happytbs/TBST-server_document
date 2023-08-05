@@ -14,13 +14,13 @@ description: TBSTCraft这个MC服务器的文档
 
 _服务器支持Java/基岩双版本上服，\[Java]支持正版/StarfishSkin双登录方式（基岩仅支持正版）。我们正在添加更多的玩法，未来将覆盖更多的平台。同时欢迎您在群内积极向我们建言献策。_
 
-> **服务器上服地址:** _game.tbstmc.xyz （Java版和基岩版端口均默认）_
+> **服务器上服地址:** _game.tbstmc.xyz_&#x20;
 >
-> 支持版本 Java 1.12.2-1.19.4 基岩版最低要求在 1.19.4以上
+> 支持版本 Java 1.12.2-1.20.1 基岩版最低要求在 1.20.0及其以上 _（Java版和基岩版端口均默认）_
 >
-> &#x20;_外置登录：_[_外置登录教程_](wai-zhi-deng-lu.md)
+> _登录方式：正版 皮肤站（_[_外置登录_](wai-zhi-deng-lu.md)_）_
 >
-> [官网](https://tbstmc.xyz) [皮肤站](https://skin.tbstmc.xyz) [加入QQ群](https://jq.qq.com/?\_wv=1027\&k=2tS7cxcw) [没啥用的论坛](https://bbs.tbstmc.xyz) [反馈问题](https://wj.qq.com/s2/12345977/adeb/)
+> [新版官网](https://tbstmc.xyz) [皮肤站](https://skin.tbstmc.xyz) [加入QQ群](https://jq.qq.com/?\_wv=1027\&k=2tS7cxcw) [反馈问题](https://wj.qq.com/s2/12345977/adeb/)
 
 ## 关于文档
 
