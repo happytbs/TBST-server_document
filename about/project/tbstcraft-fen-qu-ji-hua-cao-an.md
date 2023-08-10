@@ -1,5 +1,5 @@
 ---
-description: 机密？（仅规划）
+description: 机密？（准备实装）
 ---
 
 # TBSTCraft分区计划草案
