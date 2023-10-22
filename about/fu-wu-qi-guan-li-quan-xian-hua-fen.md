@@ -14,16 +14,11 @@ description: 快扔给那些xxs看堵住他们的嘴！
 
 服务器参与管理人员权限划分表（排名不分先后）：
 
-<table data-view="cards"><thead><tr><th>名称（QQ群名+MC名称）</th><th data-type="checkbox">服务器内OP</th><th data-type="checkbox">机器人操作权限</th><th data-type="checkbox">玩家群内管理</th></tr></thead><tbody><tr><td>土拨鼠（tuboshu）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>GrassBlock2022（GrassBlock2022）</td><td>true</td><td>true</td><td>true</td></tr><tr><td><del>飞在天上的海* ☭（CubeVlmu）</del>已注销</td><td>true</td><td>false</td><td>true</td></tr><tr><td>emo了（zihan123）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>一只Merry（BE_ShawnMerry334）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>梦想者（wdskwwwww）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>小小苦力怕（Little_creeper）</td><td>true</td><td>false</td><td>false</td></tr><tr><td>SO（Syphlix_Oauthes）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Yakamo（Yakamo_QAQ）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>钢筋柱子（XiaoZhu_2022）</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>名称（QQ群名+MC名称）</th><th data-type="checkbox">服务器内OP</th><th data-type="checkbox">机器人操作权限</th><th data-type="checkbox">玩家群内管理</th></tr></thead><tbody><tr><td>土拨鼠（tuboshu）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>GrassBlock2022（GrassBlock2022）</td><td>true</td><td>true</td><td>true</td></tr><tr><td><del>飞在天上的海* ☭（CubeVlmu）</del></td><td>false</td><td>false</td><td>false</td></tr><tr><td>emo了（zihan123）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>一只Merry（BE_ShawnMerry334）</td><td>false</td><td>false</td><td>true</td></tr><tr><td>梦想者（wdskwwwww）</td><td>true</td><td>true</td><td>true</td></tr><tr><td>小小苦力怕（Little_creeper）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>SO（Syphlix_Oauthes）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Yakamo（Yakamo_QAQ）</td><td>true</td><td>false</td><td>true</td></tr><tr><td>钢筋柱子（XiaoZhu_2022）</td><td>true</td><td>false</td><td>true</td></tr></tbody></table>
 
 ### 合作方
 
-| 名称                                  | 提供的服务 | 特权（bs）       |
-| ----------------------------------- | ----- | ------------ |
-| [乐白云](https://idc.vpslb.cn)         | 网站服务器 | 可以在群内适当的发布广告 |
-| [启码云](../others/wei-lai-gui-hua.md) | CDN   | 可以在群内适当的发布广告 |
-
-
+暂无
 
 
 
