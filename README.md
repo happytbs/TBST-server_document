@@ -42,8 +42,8 @@ TBSTCraft（简称TCraft）是一家致力于提供极致创造乐趣的我的�
 [wai-zhi-deng-lu.md](wai-zhi-deng-lu.md)
 {% endcontent-ref %}
 
-{% content-ref url="course/jie-jue-wen-ti.md" %}
-[jie-jue-wen-ti.md](course/jie-jue-wen-ti.md)
+{% content-ref url="course/chang-jian-wen-ti.md" %}
+[chang-jian-wen-ti.md](course/chang-jian-wen-ti.md)
 {% endcontent-ref %}
 
 {% content-ref url="rules.md" %}
