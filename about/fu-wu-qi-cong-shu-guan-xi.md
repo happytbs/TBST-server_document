@@ -10,4 +10,4 @@ TBSTMC旗下有AC和TC两个服务器
 
 而TBSTMC是属于FlybirdGames的子团队
 
-![](../.gitbook/assets/a4ba8ac4933e9fcc4b2fa66d17d457e7.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

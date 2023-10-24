@@ -1,5 +1,5 @@
 ---
-description: 快扔给那些xxs看堵住他们的嘴！
+description: 快扔给那些xxs看堵住他们的嘴！（划掉）
 ---
 
 # 管理人员权限划分

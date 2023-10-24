@@ -15,15 +15,16 @@
 
 * [❓ 常见问题](course/chang-jian-wen-ti.md)
 * [建筑技巧](course/jian-zhu-ji-qiao.md)
-* [梗の百科](course/geng.md)
+* [梗百科](course/geng.md)
+* [TAPI文档](course/tapi-wen-dang.md)
 
 ## 🔊 公告 <a href="#announcement" id="announcement"></a>
 
 * [运输设施管理条例](announcement/yun-shu-she-shi-guan-li-tiao-li.md)
 * [服务器内惩罚措施公示](announcement/fu-wu-qi-nei-cheng-fa-cuo-shi-gong-shi.md)
 * [未来规划](announcement/guihua/README.md)
-  * [TBSTCraft分区计划草案](announcement/guihua/tbstcraft-fen-qu-ji-hua-cao-an.md)
-  * [服务器规划](announcement/guihua/project.md)
+  * [服务器分区计划草案](announcement/guihua/fu-wu-qi-fen-qu-ji-hua-cao-an.md)
+  * [服务器发展规划](announcement/guihua/project.md)
 
 ## 其他 <a href="#others" id="others"></a>
 
