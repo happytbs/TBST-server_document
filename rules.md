@@ -41,4 +41,4 @@ description: '[入群必看] TBSTCraft建筑服务器玩家交流群群规！'
 
 
 \
-![💡](https://cdn.jsdelivr.net/gh/twitter/twemoji@14/assets/72x72/1f4a1.png) _TCraft管理部 2023 10.22_
+——_TCraft管理部 2023 10.28_

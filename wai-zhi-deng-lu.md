@@ -88,4 +88,4 @@ description: TBSTCraft专属的外置登录配置教程 by Cube✖tuboshu
 
 > **外置登陆**不能与**正版登陆**并存，如果想关闭外置登陆，请在上述过程中，PCL2可以在选择登陆方式那里，换回“离线登录和正版登陆”的选项来恢复你的离线登录或者正版登陆等，HMCL可以在账户列表里面直接切换你的离线登录或者正版登录，BakaXL可以在账户与档案中点击你需要的账户来进行切换等。
 >
-> _如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才 89 元。_~~_可以前往_~~[~~_Minecraft官网_~~](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)_不知为什么Minecraft官网已经被锁区，请前往_[_XBOX_](https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj)_查看价格和购买_ ）
+> _如果有能力，建议还是支持下正版吧，毕竟现在Java和基岩捆绑销售才 89 元。（不知为什么Minecraft官网已经被锁区，请前往_[_XBOX_](https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj)_查看价格和购买_ ）
