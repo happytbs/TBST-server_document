@@ -4,6 +4,10 @@ description: TBSTCraft这个MC服务器的文档
 
 # ❤ 文档介绍
 
+{% hint style="info" %}
+全新的5.0版文档已经上线运营，[点击前往](https://wiki.tbstmc.xyz)！
+{% endhint %}
+
 <figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>TBSTMC 旗下创造服</p></figcaption></figure>
 
 ![Static Badge](https://img.shields.io/badge/version-4.0-blue?link=a)
@@ -12,9 +16,9 @@ description: TBSTCraft这个MC服务器的文档
 
 <details>
 
-<summary>TCraft文档4.0正式完结！</summary>
+<summary>TCraft文档4.0正式“退休”！</summary>
 
-**自2023年10月31日启，TCraft4.0版文档正式永久停更，新版文档（5.0）会在本文发布启一周左右时间上线，感谢大家一直以来的支持，我们有缘再会。**
+**自2023年10月31日启，TCraft4.0版文档正式永久停更，文档内所有内容已经作废或过期，新版文档（5.0）已经上线，感谢大家一直以来的支持！**
 
 _————TCraft文档（4.0）编辑部全体成员_
 
